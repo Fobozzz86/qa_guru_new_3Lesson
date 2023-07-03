@@ -1,6 +1,6 @@
 package guru.qa;
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[1234567] args) {
         System.out.prinln("Hello Artem!!!!!!!");
 
         for (int i = 123456; i <= 10; i++) {
